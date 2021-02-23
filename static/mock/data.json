@@ -1,0 +1,258 @@
+{
+  "data": [
+    {
+      "city": "北京",
+      "swiperList": [
+        {
+          "id": "01",
+          "imgUrl": "https://imgs.qunarzz.com/sight/source/1603/ad/69b0fc5f48ad5f.jpg_r_640x214_b0fd5c7b.jpg"
+        },
+        {
+          "id": "02",
+          "imgUrl": "https://imgs.qunarzz.com/sight/source/1511/1d/fe098e8cfec117.jpg_r_640x214_a9be292a.jpg"
+        }
+      ],
+      "iocnList": [
+        {
+          "id": "01",
+          "title": "故宫",
+          "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/package.png"
+        },
+        {
+          "id": "02",
+          "title": "故宫",
+          "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/package.png"
+        },
+        {
+          "id": "03",
+          "title": "故宫",
+          "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/package.png"
+        },
+        {
+          "id": "04",
+          "title": "故宫",
+          "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/package.png"
+        },
+        {
+          "id": "05",
+          "title": "故宫",
+          "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/package.png"
+        },
+        {
+          "id": "06",
+          "title": "故宫",
+          "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/package.png"
+        },
+        {
+          "id": "07",
+          "title": "故宫",
+          "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/package.png"
+        },
+        {
+          "id": "08",
+          "title": "故宫",
+          "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/package.png"
+        },
+        {
+          "id": "09",
+          "title": "故宫",
+          "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/flight.png"
+        },
+        {
+          "id": "10",
+          "title": "故宫",
+          "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/flight.png"
+        }
+      ],
+      "hotList": [
+        {
+          "id": "01",
+          "imgUrl": "https://imgs.qunarzz.com/sight/p0/2005/96/96990a5589da215aa3.water.jpg_250x250_19e47190.jpg",
+          "title": "故宫",
+          "mark": 20
+        },
+        {
+          "id": "02",
+          "imgUrl": "https://imgs.qunarzz.com/sight/p0/2005/96/96990a5589da215aa3.water.jpg_250x250_19e47190.jpg",
+          "title": "故宫故宫故宫故宫故宫故宫故宫",
+          "mark": 20
+        },
+        {
+          "id": "03",
+          "imgUrl": "https://imgs.qunarzz.com/sight/p0/2005/96/96990a5589da215aa3.water.jpg_250x250_19e47190.jpg",
+          "title": "故宫",
+          "mark": 20
+        },
+        {
+          "id": "04",
+          "imgUrl": "https://imgs.qunarzz.com/sight/p0/2005/96/96990a5589da215aa3.water.jpg_250x250_19e47190.jpg",
+          "title": "故宫",
+          "mark": 20
+        },
+        {
+          "id": "05",
+          "imgUrl": "https://imgs.qunarzz.com/sight/p0/2005/96/96990a5589da215aa3.water.jpg_250x250_19e47190.jpg",
+          "title": "故宫",
+          "mark": 20
+        }
+      ],
+      "likeList": [
+        {
+          "id": "01",
+          "imgUrl": "https://imgs.qunarzz.com/sight/p0/2003/2b/2b5bd22ea6a3cff9a3.water.jpg_200x200_35882e48.jpg",
+          "title": "上海海昌海洋公园",
+          "pirce": "249",
+          "map": "浦东新区"
+        },
+        {
+          "id": "02",
+          "imgUrl": "https://imgs.qunarzz.com/sight/p0/2102/96/96a6683f7a34eec0a3.water.jpg_200x200_b0814bb6.jpg",
+          "title": "上海海昌海洋公园",
+          "pirce": "249",
+          "map": "浦东新区"
+        }
+      ],
+      "vactionList": [
+        {
+          "id": "01",
+          "imgUrl": "https://imgs.qunarzz.com/sight/source/1505/7d/df6ff468331c43.jpg_r_640x214_1f3783d0.jpg",
+          "name": "上海必打卡",
+          "desc": "浦东新区"
+        },
+        {
+          "id": "02",
+          "imgUrl": "https://imgs.qunarzz.com/sight/source/1511/ea/7f43191b747bb9.jpg_r_640x214_f58e829d.jpg",
+          "name": "上海必打卡",
+          "desc": "浦东新区"
+        }
+      ]
+    },
+    {
+      "city": "上海",
+      "swiperList": [
+        {
+          "id": "01",
+          "imgUrl": "https://imgs.qunarzz.com/sight/source/1603/ad/69b0fc5f48ad5f.jpg_r_640x214_b0fd5c7b.jpg"
+        },
+        {
+          "id": "02",
+          "imgUrl": "https://imgs.qunarzz.com/sight/source/1511/1d/fe098e8cfec117.jpg_r_640x214_a9be292a.jpg"
+        }
+      ],
+      "iocnList": [
+        {
+          "id": "01",
+          "title": "东方明珠",
+          "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/package.png"
+        },
+        {
+          "id": "02",
+          "title": "东方明珠",
+          "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/package.png"
+        },
+        {
+          "id": "03",
+          "title": "东方明珠",
+          "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/package.png"
+        },
+        {
+          "id": "04",
+          "title": "东方明珠",
+          "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/package.png"
+        },
+        {
+          "id": "05",
+          "title": "东方明珠",
+          "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/package.png"
+        },
+        {
+          "id": "06",
+          "title": "东方明珠",
+          "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/package.png"
+        },
+        {
+          "id": "07",
+          "title": "东方明珠",
+          "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/package.png"
+        },
+        {
+          "id": "08",
+          "title": "东方明珠",
+          "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/package.png"
+        },
+        {
+          "id": "09",
+          "title": "东方明珠",
+          "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/flight.png"
+        },
+        {
+          "id": "10",
+          "title": "东方明珠",
+          "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/flight.png"
+        }
+      ],
+      "hotList": [
+        {
+          "id": "01",
+          "imgUrl": "https://imgs.qunarzz.com/sight/p0/2005/96/96990a5589da215aa3.water.jpg_250x250_19e47190.jpg",
+          "title": "故宫",
+          "mark": 20
+        },
+        {
+          "id": "02",
+          "imgUrl": "https://imgs.qunarzz.com/sight/p0/2005/96/96990a5589da215aa3.water.jpg_250x250_19e47190.jpg",
+          "title": "故宫故宫故宫故宫故宫故宫故宫",
+          "mark": 20
+        },
+        {
+          "id": "03",
+          "imgUrl": "https://imgs.qunarzz.com/sight/p0/2005/96/96990a5589da215aa3.water.jpg_250x250_19e47190.jpg",
+          "title": "故宫",
+          "mark": 20
+        },
+        {
+          "id": "04",
+          "imgUrl": "https://imgs.qunarzz.com/sight/p0/2005/96/96990a5589da215aa3.water.jpg_250x250_19e47190.jpg",
+          "title": "故宫",
+          "mark": 20
+        },
+        {
+          "id": "05",
+          "imgUrl": "https://imgs.qunarzz.com/sight/p0/2005/96/96990a5589da215aa3.water.jpg_250x250_19e47190.jpg",
+          "title": "故宫",
+          "mark": 20
+        }
+      ],
+      "likeList": [
+        {
+          "id": "01",
+          "imgUrl": "https://imgs.qunarzz.com/sight/p0/2003/2b/2b5bd22ea6a3cff9a3.water.jpg_200x200_35882e48.jpg",
+          "title": "上海海昌海洋公园",
+          "pirce": "249",
+          "map": "浦东新区"
+        },
+        {
+          "id": "02",
+          "imgUrl": "https://imgs.qunarzz.com/sight/p0/2102/96/96a6683f7a34eec0a3.water.jpg_200x200_b0814bb6.jpg",
+          "title": "上海海昌海洋公园",
+          "pirce": "249",
+          "map": "浦东新区"
+        }
+      ],
+      "vactionList": [
+        {
+          "id": "01",
+          "imgUrl": "https://imgs.qunarzz.com/sight/source/1505/7d/df6ff468331c43.jpg_r_640x214_1f3783d0.jpg",
+          "name": "上海必打卡",
+          "desc": "浦东新区"
+        },
+        {
+          "id": "02",
+          "imgUrl": "https://imgs.qunarzz.com/sight/source/1511/ea/7f43191b747bb9.jpg_r_640x214_f58e829d.jpg",
+          "name": "上海必打卡",
+          "desc": "浦东新区"
+        }
+      ]
+    }
+  ]
+}

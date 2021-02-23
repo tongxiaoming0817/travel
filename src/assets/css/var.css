@@ -1,0 +1,15 @@
+.bordered-top {
+  width: 100%;
+  border-top: 1px solid #ccc;
+}
+.bordered-right {
+  border-right: 1px solid #ccc;
+}
+.bordered-bottom {
+  border-bottom: 1px solid #ccc;
+}
+.textoverflow {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
